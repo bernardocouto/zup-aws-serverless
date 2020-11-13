@@ -1,0 +1,14 @@
+{
+    "development": {
+        "apigateway_description": "Zup AWS Serverless",
+        "app_function": "application.application",
+        "aws_region": "us-east-1",
+        "debug": false,
+        "keep_warm": false,
+        "log_level": "INFO",
+        "memory_size": 128,
+        "project_name": "zup-aws-serverless",
+        "runtime": "python3.8",
+        "s3_bucket": "zup-aws-serverless"
+    }
+}
